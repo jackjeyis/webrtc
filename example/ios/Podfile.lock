@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - webrtc (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - webrtc (from `.symlinks/plugins/webrtc/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  webrtc:
+    :path: ".symlinks/plugins/webrtc/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  webrtc: c30d5fb9ca7b43f960784d40e4e11eff53b6375d
+
+PODFILE CHECKSUM: 1e5af4103afd21ca5ead147d7b81d06f494f51a2
+
+COCOAPODS: 1.5.3
