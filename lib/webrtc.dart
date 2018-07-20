@@ -12,6 +12,7 @@ export 'rtc_session_description.dart';
 export 'rtc_peerconnection.dart';
 export 'rtc_peerconnection_factory.dart';
 export 'rtc_stats_report.dart';
+export 'signaling.dart';
 
 
 enum Log {
